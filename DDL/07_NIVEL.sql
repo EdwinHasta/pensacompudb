@@ -1,0 +1,5 @@
+CREATE TABLE NIVEL (
+   identificador NUMERIC PRIMARY KEY,
+   descripcion VARCHAR(50) UNIQUE NOT NULL
+);
+
